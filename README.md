@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/winflexbison-fe
 
 Home: https://github.com/lexxmark/winflexbison
 
-Package license: GPL-3.0
+Package license: GPL-3.0-or-later
 
 Summary: WinFlexBison is a Windows port of Flex (the fast lexical analyser) and GNU Bison (parser generator).
 
